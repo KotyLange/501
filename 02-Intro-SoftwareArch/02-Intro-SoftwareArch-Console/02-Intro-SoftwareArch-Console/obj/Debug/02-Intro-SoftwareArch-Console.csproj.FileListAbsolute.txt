@@ -1,0 +1,6 @@
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.pdb
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\02-Intro-SoftwareArch-Console.csprojResolveAssemblyReference.cache
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+C:\School\501\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
